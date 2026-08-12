@@ -1,8 +1,14 @@
 # FITS Viewer for Android
 
+## Acknowledgments
+
+AI-assisted development powered by Qoder.
+
 A native Android app inspired by NASA fv and SAO ds9, written in Kotlin with no
 third-party FITS dependencies — the parser is implemented from scratch following
 the FITS Standard 4.0.
+
+Who on earth needs to read FITS files on a mobile device anyway...
 
 ## Features
 
