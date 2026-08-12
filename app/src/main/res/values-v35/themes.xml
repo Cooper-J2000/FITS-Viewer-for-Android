@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      Android 15 (API 35) 默认强制 edge-to-edge, 会让内容延伸到状态栏/标题栏下方,
+      导致按钮被标题栏遮挡且各家 ROM 表现不一。
+      这里显式关闭强制项, 恢复"内容位于系统栏下方"的标准布局, 与低版本安卓保持一致。
+    -->
+    <style name="Theme.FitsViewer" parent="Base.Theme.FitsViewer">
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+</resources>

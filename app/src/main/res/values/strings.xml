@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FITS Viewer</string>
+    <string name="open_fits">打开 FITS 文件</string>
+    <string name="no_file">尚未打开文件。\n\n点击上方按钮选择 .fits / .fit / .fts 文件。</string>
+    <string name="search_hint">搜索关键词 (如 NAXIS, EXPTIME)…</string>
+    <string name="view_header">查看 Header</string>
+    <string name="view_data">查看数据</string>
+    <string name="plot">绘图</string>
+</resources>

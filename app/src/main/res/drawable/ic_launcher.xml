@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 简单的启动图标：深色圆底 + 四角星 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#102027"
+        android:pathData="M54,54m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0" />
+    <path
+        android:fillColor="#4FC3F7"
+        android:pathData="M54,16 L60,48 L92,54 L60,60 L54,92 L48,60 L16,54 L48,48 Z" />
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M78,26m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path
+        android:fillColor="#FFF59D"
+        android:pathData="M30,78m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+</vector>
